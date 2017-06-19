@@ -1,17 +1,46 @@
-# National standards (GB) about the Mongolian language and script
+# A summary of national standards (GB) related to the Mongolian script
 
-As of 19 June 2017, when searching for "蒙古" on 国家标准全文公开系统 ([gb688.cn/bzgk](http://gb688.cn/bzgk)), a total of 21 results are available, out of which 19 are of "蒙古文" and 2 "蒙古语".
+Sources: 国家标准全文公开系统 ([gb688.cn/bzgk](http://gb688.cn/bzgk)), 全国信息技术标准化网 ([nits.org.cn](http://nits.org.cn)).
 
-This summary is composed by Liang Hai (梁海) <<lianghai@gmail.com>>.
+Author: Liang Hai (梁海) <<lianghai@gmail.com>>
+
+Date: 19 June 2017
+
+## Drafts
+
+- Todo encoding
+    - [**20140222-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61529) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
+    - 信息技术 托忒文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Todo nominal characters, presentation characters and use rules of controlling characters
+
+- Manchu encoding
+    - [**20140221-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61528) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
+    - 信息技术 满文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Manchu nominal characters, presentation characters and use rules of controlling characters
+
+- Sibe encoding
+    - [**20140223-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61530) (public review not issued as of 19 June 2017)
+    - 信息技术 锡伯文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Sibe nominal characters, presentation characters and use rules of controlling characters
+
+- Sibe keyboard layout
+    - [**20142101-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=59575) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=2919&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-sibe-keyboard-layout))
+    - 信息技术 基于数字键盘的锡伯文字母布局
+    - Information technology—Layout of keyboard for Sibe letters
+
+- Uyghur Mongolian encoding
+    - [**20153399-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=102915) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3217&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-uyghur-mongolian-encoding))
+    - 信息技术 回鹘式蒙古文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Uigur-Mongolian nominal characters, presentation forms and rules of controlling characters
 
 ## Encoding
 
-- General Mongolian
+- General encoding
     - [**GB/T 26226-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=570293EAB74057076C44F08734EF3CDC)
     - 信息技术 蒙古文变形显现字符集和控制字符使用规则
     - Information technology—Mongolian presentation forms character set and use rules of controlling characters
 
-- Hudum Mongolian
+- Hudum encoding
     - [**GB/T 25914-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=62808E0BCB8246A287CFD9CF795ECF94)
     - 信息技术 传统蒙古文名义字符、变形显现字符和控制字符使用规则
     - Information technology—Traditional Mongolian nominal characters, presentation characters and use rules of controlling characters
