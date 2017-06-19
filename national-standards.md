@@ -1,8 +1,8 @@
-# GBs about the Mongolian language and script
+# National standards (GB) about the Mongolian language and script
 
-As of 19 June 2017, when searching for "蒙古", a total of 21 results (19 of "蒙古文"; 2 of "蒙古语") are available on 国家标准全文公开系统 ([gb688.cn/bzgk](http://gb688.cn/bzgk)) .
+As of 19 June 2017, when searching for "蒙古" on 国家标准全文公开系统 ([gb688.cn/bzgk](http://gb688.cn/bzgk)), a total of 21 results are available, out of which 19 are of "蒙古文" and 2 "蒙古语".
 
-Organized by: Liang Hai (梁海) <<lianghai@gmail.com>>
+This summary is composed by Liang Hai (梁海) <<lianghai@gmail.com>>.
 
 ## Encoding
 
