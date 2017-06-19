@@ -6,66 +6,127 @@ Author: Liang Hai (梁海) <<lianghai@gmail.com>>
 
 Date: 19 June 2017
 
-## Drafts
-
-- Todo encoding
-    - [**20140222-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61529) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
-    - 信息技术 托忒文名义字符、变形显现字符和控制字符使用规则
-    - Information technology—Todo nominal characters, presentation characters and use rules of controlling characters
-
-- Manchu encoding
-    - [**20140221-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61528) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
-    - 信息技术 满文名义字符、变形显现字符和控制字符使用规则
-    - Information technology—Manchu nominal characters, presentation characters and use rules of controlling characters
-
-- Sibe encoding
-    - [**20140223-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61530) (public review not issued as of 19 June 2017)
-    - 信息技术 锡伯文名义字符、变形显现字符和控制字符使用规则
-    - Information technology—Sibe nominal characters, presentation characters and use rules of controlling characters
-
-- Sibe keyboard layout
-    - [**20142101-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=59575) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=2919&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-sibe-keyboard-layout))
-    - 信息技术 基于数字键盘的锡伯文字母布局
-    - Information technology—Layout of keyboard for Sibe letters
-
-- Uyghur Mongolian encoding
-    - [**20153399-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=102915) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3217&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-uyghur-mongolian-encoding))
-    - 信息技术 回鹘式蒙古文名义字符、变形显现字符和控制字符使用规则
-    - Information technology—Uigur-Mongolian nominal characters, presentation forms and rules of controlling characters
-
 ## Encoding
 
-- General encoding
+Item count: 6
+
+- General: encoding
     - [**GB/T 26226-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=570293EAB74057076C44F08734EF3CDC)
     - 信息技术 蒙古文变形显现字符集和控制字符使用规则
     - Information technology—Mongolian presentation forms character set and use rules of controlling characters
 
-- Hudum encoding
+- Hudum: encoding
     - [**GB/T 25914-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=62808E0BCB8246A287CFD9CF795ECF94)
     - 信息技术 传统蒙古文名义字符、变形显现字符和控制字符使用规则
     - Information technology—Traditional Mongolian nominal characters, presentation characters and use rules of controlling characters
 
-- Collation weights
-    - [**GB/T 30851-2014**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=6C324F10BE522B261FEE456001A887A1)
-    - 信息技术 传统蒙古文排序
-    - Information technology—Traditional Mongolian sorting
+- [*Draft*] Todo: encoding
+    - [**20140222-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61529) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
+    - 信息技术 托忒文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Todo nominal characters, presentation characters and use rules of controlling characters
 
-- Keyboard layout
+- [*Draft*] Manchu: encoding
+    - [**20140221-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61528) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3029&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-manchu-and-todo-encoding))
+    - 信息技术 满文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Manchu nominal characters, presentation characters and use rules of controlling characters
+
+- [*Draft*] Sibe: encoding
+    - [**20140223-Q-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=61530) (no public review issued as of 19 June 2017)
+    - 信息技术 锡伯文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Sibe nominal characters, presentation characters and use rules of controlling characters
+
+- [*Draft*] Uyghur Mongolian: encoding
+    - [**20153399-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=102915) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=3217&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-uyghur-mongolian-encoding))
+    - 信息技术 回鹘式蒙古文名义字符、变形显现字符和控制字符使用规则
+    - Information technology—Uigur-Mongolian nominal characters, presentation forms and rules of controlling characters
+
+## Inputting and processing
+
+Item count: 6
+
+- General: keyboard layouts
     - [**GB/T 28038-2011**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=577FFA8BE53ED0ED5731988A47D20B94)
     - 信息技术 通用多八位编码字符集 蒙古文 通用键盘字母数字区布局
     - Information technology—Universal multiple-octet coded character set—Universal keyboard layout of the alphanumeric zone for Mongolian
 
-- Dictionary of standardized word encodings
-    - [**GB/T 32912-2016**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=A3937B0B8645DAB05B5BBD221DBE3ACD)
-    - 信息技术 传统蒙古文单词词形规范 基本集
-    - Information technology—Specification of word form of traditional Mongolian words—Basic set
+- [*Draft*] Sibe: numeric keypad layouts
+    - [**20142101-T-469**](http://gb688.cn/sacinfo/PCPlan/queryInfo?buzPlanProjectId=59575) (public review [announcement](http://www.nits.org.cn/getIndex.req?action=quary&req=modulenvpromote&id=2919&type=0&moduleId=83&sid=5) and [archived files](https://github.com/lianghai/mongolian/tree/master/china/drafts/public-review-sibe-keyboard-layout))
+    - 信息技术 基于数字键盘的锡伯文字母布局
+    - Information technology—Layout of keyboard for Sibe letters
 
-- Word processing requirements
+- General: word processing requirements
     - [**GB/T 26233-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=DC6EE79E366587125A978372AB5165DC)
     - 信息技术 蒙古文类文字通用编辑软件的基本要求
     - Information technology—Basic requirement for the Mongolian universal editor software
 
+- General: guidelines for encoding tests
+    - [**GB/T 29270.1-2012**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=0DF11961A42E8D99D8449B7BACEF5F26)
+    - 信息技术 编码字符集测试规范 第1部分：蒙古文
+    - Information technology—Specification for the testing of coded character sets—Part 1: Mongolian
+
+- Hudum: collation weights
+    - [**GB/T 30851-2014**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=6C324F10BE522B261FEE456001A887A1)
+    - 信息技术 传统蒙古文排序
+    - Information technology—Traditional Mongolian sorting
+
+- Hudum: dictionary of standardized word encodings
+    - [**GB/T 32912-2016**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=A3937B0B8645DAB05B5BBD221DBE3ACD)
+    - 信息技术 传统蒙古文单词词形规范 基本集
+    - Information technology—Specification of word form of traditional Mongolian words—Basic set
+
+## Legacy
+
+Item count: 4
+
+- Hudum: 7/8-bit legacy encoding
+    - [**GB/T 8045-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=17866656CDFAEBC6533652D475BA323C)
+    - 信息处理交换用蒙古文七位和八位编码图形字符集
+    - Mongolian 7-bit and 8-bit coded graphic character sets for information processing interchange
+
+- Hudum: Keyboard layout for the legacy encoding
+    - [**GB/T 8046-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=D74F3A0E9AF4A6401776A9C709ADFA6D)
+    - 信息处理交换用蒙古文字符集键盘的字母区布局
+    - Keyboard arrangement of the alphabetical area of mongolian character set for information processing interchange
+
+- Hudum: Bai Ti, 16-dot bitmap, for the legacy encoding
+    - [**GB/T 7422.2-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=B20053E8FDF7058F77CA2393BDEFF2BF)
+    - 信息交换用蒙古文16×12、16×8、16×4点阵数据集
+    - 16 × 12, 16 × 8, 16 × 4 Dot matrix data set of Mongolian characters for information interchange
+
+- Hudum: Bai Ti, 24-dot bitmap, for the legacy encoding
+    - [**GB/T 12051-1989**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=FDC6ADAC46A6D2BBA77F38EFEE8A54E5)
+    - 信息处理用蒙古文24点阵字模集及数据集
+    - 24 Dot matrix font set and data set of Mongolian characters for information processing
+
+## The Mongolian language
+
+Item count: 4
+
+- Mongolian–Chinese transcription scheme
+    - [**GB/T 17693.8-2008**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=439E1E00944A751A5669A043FC3CBD00)
+    - 外语地名汉字译写导则 蒙古语
+    - Transformation guidelines of geographical names from foreign languages into Chinese—Mongolian
+
+- Guidelines for building terminologies
+    - [**GB/T 18291-2000**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=0FAEB2EC620B779ED088920A48AFDE0B)
+    - 蒙古语术语工作 原则与方法
+    - Mongolian terminology work—Principles and methods
+
+- Natural language processing marks
+    - [**GB/T 26235-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=4991774DE514B419B193435931928DAB)
+    - 信息技术 信息处理用蒙古文词语标记
+    - Information technology—Mongolian word and expression marks for information processing
+
+- Software engineering terminology
+    - [**GB/T 32409-2015**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=D244BF191B5E03F3A9E62DF9CE48587E)
+    - 信息技术 传统蒙古文软件工程术语
+    - Information technology—Traditional Mongolian software engineering terminology
+
 ## Fonts
+
+### General
+
+Item count: 6
 
 - Bai Ti, 16-dot bitmap
     - [**GB/T 25893.1-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=F851214AC11E6BA81E579BEB5F6F0EAA)
@@ -97,51 +158,100 @@ Date: 19 June 2017
     - 信息技术 通用多八位编码字符集 蒙古文名义字符与变形显现字符 48点阵字型 孝经体
     - Information technology—Universal multi-octet coded character set—Mongolian nominal characters and presentation forms—48 dot matrix font—XiaoJing Ti
 
-## Misc
+### Manchu, Sibe
 
-- Mongolian–Chinese transcription scheme
-    - [**GB/T 17693.8-2008**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=439E1E00944A751A5669A043FC3CBD00)
-    - 外语地名汉字译写导则 蒙古语
-    - Transformation guidelines of geographical names from foreign languages into Chinese—Mongolian
+Item count: 14
 
-- Guidelines for building terminologies
-    - [**GB/T 18291-2000**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=0FAEB2EC620B779ED088920A48AFDE0B)
-    - 蒙古语术语工作 原则与方法
-    - Mongolian terminology work—Principles and methods
+- Zheng Bai Ti
+    - [**GB/T 30849-2014**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=C578DB8CD9233569071EADCC940BC7E1)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文字型 正白体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu font—Zhengbai Ti
 
-- Natural language processing marks
-    - [**GB/T 26235-2010**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=4991774DE514B419B193435931928DAB)
-    - 信息技术 信息处理用蒙古文词语标记
-    - Information technology—Mongolian word and expression marks for information processing
+- Zheng Bai Ti, 16-dot bitmap
+    - [**GB/T 25903.1-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=84068A46D1986A84FD8F6BBE451689E9)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 16点阵字型 第1部分：正白体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—16 Dot matrix fonts—Part 1: Zhengbai Ti
 
-- Guidelines for encoding tests
-    - [**GB/T 29270.1-2012**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=0DF11961A42E8D99D8449B7BACEF5F26)
-    - 信息技术 编码字符集测试规范 第1部分：蒙古文
-    - Information technology—Specification for the testing of coded character sets—Part 1: Mongolian
+- Zheng Bai Ti, 32-dot bitmap
+    - [**GB/T 25905.1-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=F1D860B74E8B52E8C9A22FD6CE9A1840)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 32点阵字型 第1部分：正白体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—32 Dot matrix fonts—Part 1: Zhengbai Ti
 
-- Software engineering terminology
-    - [**GB/T 32409-2015**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=D244BF191B5E03F3A9E62DF9CE48587E)
-    - 信息技术 传统蒙古文软件工程术语
-    - Information technology—Traditional Mongolian software engineering terminology
+- Zheng Bai Ti, 48-dot bitmap
+    - [**GB/T 25906.1-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=5748B248CE1257EAD22F60724D3BA2D4)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 48点阵字型 第1部分：正白体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—48 Dot matrix fonts—Part 1: Zhengbai Ti
 
-## Legacy
+- Zheng Hei Ti
+    - [**GB/T 30848-2014**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=719B06ADCEAC1348B8EEE42DD7041E28)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文字型 正黑体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu font—Zhenghei Ti
 
-- 7/8-bit legacy encoding
-    - [**GB/T 8045-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=17866656CDFAEBC6533652D475BA323C)
-    - 信息处理交换用蒙古文七位和八位编码图形字符集
-    - Mongolian 7-bit and 8-bit coded graphic character sets for information processing interchange
+- Zheng Hei Ti, 16-dot bitmap
+    - [**GB/T 25903.2-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=8217601C296B2E0F776D86A1932A88F8)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 16点阵字型 第2部分：正黑体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—16 Dot matrix fonts—Part 2: Zhenghei Ti
 
-- Keyboard layout for the legacy encoding
-    - [**GB/T 8046-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=D74F3A0E9AF4A6401776A9C709ADFA6D)
-    - 信息处理交换用蒙古文字符集键盘的字母区布局
-    - Keyboard arrangement of the alphabetical area of mongolian character set for information processing interchange
+- Zheng Hei Ti, 32-dot bitmap
+    - [**GB/T 25905.2-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=213C613F8C4CF3F6878D46BBC5B4C02E)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 32点阵字型 第2部分：正黑体
+    - Information technology—universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—32 dot matrix fonts—Part 2: Zhenghei Ti
 
-- Bai Ti, 16-dot bitmap, for the legacy encoding
-    - [**GB/T 7422.2-1987**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=B20053E8FDF7058F77CA2393BDEFF2BF)
-    - 信息交换用蒙古文16×12、16×8、16×4点阵数据集
-    - 16 × 12, 16 × 8, 16 × 4 Dot matrix data set of Mongolian characters for information interchange
+- Zheng Hei Ti, 48-dot bitmap
+    - [**GB/T 25906.2-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=35C9BE5219CAF63B204B26189E7EAC40)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 48点阵字型 第2部分：正黑体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—48 Dot matrix fonts—Part 2: Zhenghei Ti
 
-- Bai Ti, 24-dot bitmap, for the legacy encoding
-    - [**GB/T 12051-1989**](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=FDC6ADAC46A6D2BBA77F38EFEE8A54E5)
-    - 信息处理用蒙古文24点阵字模集及数据集
-    - 24 Dot matrix font set and data set of Mongolian characters for information processing
+- Da Hei Ti, 24-dot bitmap
+    - **GB/T 25904.1-2010**
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 24点阵字型 第1部分：大黑体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—24 Dot matrix fonts—Part 1: Dahei Ti
+
+- Da Hei Ti, 48-dot bitmap
+    - [**GB/T 25906.3-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=3F97A5E00D66CA6B19178AE90034CBE0)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 48点阵字型 第3部分：大黑体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—48 Dot matrix fonts—Part 3: Dahei Ti
+
+- Xingshu Ti, 24-dot bitmap
+    - **GB/T 25904.2-2010**
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 24点阵字型 第2部分：行书体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—24 Dot matrix fonts—Part 2: Xingshu Ti
+
+- Xingshu Ti, 48-dot bitmap
+    - [**GB/T 25906.4-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=DD130A47FA494DD505E9B77711E7D0F5)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 48点阵字型 第4部分：行书体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—48 Dot matrix fonts—Part 4: Xingshu Ti
+
+- Zouzhe Ti, 24-dot bitmap
+    - [**GB/T 25904.3-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=AD84B3832F63B6186CCAB76CF9D291D9)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 24点阵字型 第3部分：奏折体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—24 Dot matrix fonts—Part 3: Zouzhe Ti
+
+- Zouzhe Ti, 48-dot bitmap
+    - [**GB/T 25906.5-2010**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=00EEA89D47CF315198A2E99831A57A71)
+    - 信息技术 通用多八位编码字符集 锡伯文、满文名义字符、显现字符与合体字 48点阵字型 第5部分：奏折体
+    - Information technology—Universal multi-octet coded character set—Sibe, Manchu nominal characters, presentation forms and composite characters—48 Dot matrix fonts—Part 5: Zouzhe Ti
+
+### Manchu
+
+Item count: 4
+
+- Qianyin Bai Ti, 16-dot bitmap
+    - [**GB/T 30441.1-2013**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=B11C5F87BA91C9E42D7CAC66782FA858)
+    - 信息技术 通用多八位编码字符集 满文名义字符与变形显现字符 16点阵字型 第1部分：铅印白体
+    - Information technology—Universal multi-octet coded character set—Manchu nominal characters and presentation forms—16 Dot matrix font—Part 1: Qianyinbai Ti
+
+- Qianyin Bai Ti, 32-dot bitmap
+    - [**GB/T 30442.1-2013**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=7B65DA2D444E54B746F3D72036564F48)
+    - 信息技术 通用多八位编码字符集 满文名义字符与变形显现字符 32点阵字型 第1部分：铅印白体
+    - Information technology－Universal multi-octet coded character set－Manchu nominal characters and presentation forms－32 Dot matrix font—Part 1: Qianyinbai Ti
+
+- Qianyin Hei Ti, 16-dot bitmap
+    - [**GB/T 30441.2-2013**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=37F8BF66247AEA615BFA5A047163DB97)
+    - 信息技术 通用多八位编码字符集 满文名义字符与变形显现字符 16点阵字型 第2部分：铅印黑体
+    - Information technology—Universal multi-octet coded character set—Manchu nominal characters and presentation forms—16 Dot matrix font—Part 2: Qianyinhei Ti
+
+- Qianyin Hei Ti, 32-dot bitmap
+    - [**GB/T 30442.2-2013**](http://gb688.cn/bzgk/gb/newGbInfo?hcno=5E0C6F6B66A623E50706CCE89BED7666)
+    - 信息技术 通用多八位编码字符集 满文名义字符与变形显现字符 32点阵字型 第2部分：铅印黑体
+    - Information technology－Universal multi-octet coded character set－Manchu nominal characters and presentation forms－32 Dot matrix font—Part 2: Qianyinhei Ti
